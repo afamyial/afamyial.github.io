@@ -1,0 +1,17 @@
+{
+  "name": "Famyial",
+  "version": "0.0.0",
+  "authors": [
+    "Ankit Famyial <ankit.famyial@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.7"
+  }
+}
