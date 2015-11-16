@@ -1,0 +1,16 @@
+/* Home Section */
+.home-section {
+  background-image: url(../images/home-section-background.jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
+.home-section-text {
+  color: white;
+  font-size: 2vw;
+  font-family: cursive;
+  position: relative;
+  margin-left: 53%;
+  padding-top: 8%;
+}
